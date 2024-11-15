@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../mems"
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "../public"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
